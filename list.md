@@ -2,16 +2,13 @@
 
 ## JavaScript Frameworks
 
-### ReactJS
+### **[ReactJS](https://reactjs.org/)**
 JavaScript library for building user interfaces
-<https://reactjs.org/>
 
 ## JavaScript Libraries
 
 
 ## JavaScript Graphics
 
-
-### Highcharts
+### **[Highcharts](https://www.highcharts.com/)
 Highcharts is a charting library written in pure JavaScript, for adding interactive charts to a website or web application. 
-<https://www.highcharts.com/>
