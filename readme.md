@@ -13,10 +13,10 @@ Build your next Vue.js application with confidence using NuxtJS. An open source 
 
 ## JavaScript Libraries
 
-### **[HammerJS](https://hammerjs.github.io/)
+### **[HammerJS](https://hammerjs.github.io/)**
 Add touch gestures to your webapp.
 
-### **[Modernizr](https://modernizr.com/)
+### **[Modernizr](https://modernizr.com/)**
 Modernizr tells you what HTML, CSS and JavaScript features the user’s browser has to offer.
 
 ### **[GSAP](https://greensock.com/gsap/)
