@@ -19,6 +19,9 @@ Add touch gestures to your webapp.
 ### **[Modernizr](https://modernizr.com/)
 Modernizr tells you what HTML, CSS and JavaScript features the user’s browser has to offer.
 
+### **[GSAP](https://greensock.com/gsap/)
+GSAP is an animation library that allows you to create animations with JavaScript. 
+
 ## JavaScript Graphics
 
 ### **[Highcharts](https://www.highcharts.com/)**
