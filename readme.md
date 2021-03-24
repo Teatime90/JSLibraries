@@ -11,16 +11,16 @@ Vue.js is an open-source model–view–viewmodel JavaScript framework for build
 ### **[NuxtJS](https://nuxtjs.org/)**
 Build your next Vue.js application with confidence using NuxtJS. An open source framework making web development simple and powerful.
 
+### **[Bootstrap](https://getbootstrap.com/)**
+Quickly design and customize responsive mobile-first sites with Bootstrap, the world’s most popular front-end open source toolkit.
+
 ## JavaScript Libraries
 
-### **[HammerJS](https://hammerjs.github.io/)**
+### **[HammerJS](https://hammerjs.github.io/)
 Add touch gestures to your webapp.
 
-### **[Modernizr](https://modernizr.com/)**
+### **[Modernizr](https://modernizr.com/)
 Modernizr tells you what HTML, CSS and JavaScript features the user’s browser has to offer.
-
-### **[GSAP](https://greensock.com/gsap/)
-GSAP is an animation library that allows you to create animations with JavaScript. 
 
 ## JavaScript Graphics
 
@@ -44,3 +44,4 @@ Online color palette designer.
 
 
 
+ 
