@@ -27,6 +27,15 @@ Modernizr tells you what HTML, CSS and JavaScript features the user’s browser 
 ### **[Highcharts](https://www.highcharts.com/)**
 Highcharts is a charting library written in pure JavaScript, for adding interactive charts to a website or web application. 
 
+### **[D3 - Data-Driven Documents](https://d3js.org/)**
+D3.js is a JavaScript graphics library for manipulating documents based on data
+
+
+## CSS Libraries
+
+### **[Animate.css](https://animate.style/)**
+Animate.css is a CSS library with a bunch of different animations
+
 
 ## Reference materials
 
@@ -41,6 +50,18 @@ Overview over CSS properties and Selectors with examples.
 
 ### **[Paletton](https://paletton.com)**
 Online color palette designer.
+
+
+## Static Site Generators
+
+### **[Jekyll](http://jekyllrb.com/)**
+Jekyll is a blog-aware, static site generator for personal, project, or organization sites. 
+
+
+## Testing Frameworks
+
+### **[Jest](https://jestjs.io/)**
+Jest is a delightful JavaScript Testing Framework with a focus on simplicity.
 
 
 
